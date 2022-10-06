@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @patricioor
+- 👋 Hi, I’m <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="patrício-rios-7b9b93164" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/patr%C3%ADcio-rios-7b9b93164?trk=profile-badge">Patrício Rios</a></div>
 - 👀 I am interested in learning a little about each related area of programming and improving in the one I have the most affinity for.
 
 - 💼 My professional trajectory is based on customer service, good relationship with the team and dedication to the company. As an employee, always aiming for professional advancement, on merit, performing my duties to the letter and always studying the possibility of refining work techniques and tools and seeking to absolve all the knowledge made available by the company and co-workers.
