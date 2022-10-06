@@ -9,3 +9,5 @@
 patricioor/patricioor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="patrício-rios-7b9b93164" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/patr%C3%ADcio-rios-7b9b93164?trk=profile-badge">Patrício Rios</a></div>
