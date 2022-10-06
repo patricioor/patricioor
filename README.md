@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @patricioor
-- 👀 I'm interested in learning a little about each area related to fullstack and improving myself in the one i have a greater affinity.
+- 👀 I am interested in learning a little about each related area of programming and improving in the one I have the most affinity for.
 
 - 💼 My professional trajectory is based on customer service, good relationship with the team and dedication to the company. As an employee, always aiming for professional advancement, on merit, performing my duties to the letter and always studying the possibility of refining work techniques and tools and seeking to absolve all the knowledge made available by the company and co-workers.
 
